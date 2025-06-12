@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "description": "Guider l'utilisateur pour configurer son nouveau compte email",
+    "status": "pending",
+    "estimated_difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "description": "Lire et résumer un article de nouvelles sur la météo",
+    "status": "pending",
+    "estimated_difficulty": "easy"
+  }
+]
